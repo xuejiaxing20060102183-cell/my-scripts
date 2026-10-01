@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+desktop.ini
+
+# 本地数据（含个人记录，不上传）
+typing_history.csv
+ram_price.json
+ram_price_chart.png
